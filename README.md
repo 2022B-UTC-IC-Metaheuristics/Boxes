@@ -4,7 +4,7 @@ N-Queens
 
 ## Definición del problema
 
-El problema de las *n*-Reinas consiste en encontrar una distribución de $n$  reinas en un tablero de *n X n* de modo tal, que éstas no se ataquen. Así, que no pueden encontrarse dos reinas en la misma fila, columna o diagonal.
+El problema de las *n*-reinas consiste en encontrar una distribución de *n*  reinas en un tablero de *n X n* de modo tal, que éstas no se ataquen. Así, que no pueden encontrarse dos reinas en la misma fila, columna o diagonal.
 
 Este problema tiene dos versiones. La versión más simple consiste en encontrar exactamente **una solución válida para un valor $n$  dado**. La otra versión más difícil, consiste en encontrar **todas las soluciones posibles para un valor *n***.
 
