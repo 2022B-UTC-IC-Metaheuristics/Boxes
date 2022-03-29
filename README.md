@@ -90,7 +90,7 @@ Ejemplo para la solución actual
 actual_solution = [2, 4, 6, 1, 3, 5]
 ```
 
-Suponer que los números aleatorios generados son $r_1 = 4$ y $r_2 = 2$. Entonces la solución vecina es:
+Suponer que los números aleatorios generados son [](https://i.imgur.com/MuY774M.png) $r_1 = 4$ y $r_2 = 2$. Entonces la solución vecina es:
 
 ```python
 actual_vecina = [2, 1, 6, 4, 3, 5]
