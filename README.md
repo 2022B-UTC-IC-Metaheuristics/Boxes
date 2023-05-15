@@ -119,4 +119,4 @@ def cost(r):
 
 - 100 reinas
 - 5000 reinas
-- 3,000,000 reinas
+- 50,000 reinas
